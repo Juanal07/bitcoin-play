@@ -2,7 +2,6 @@ from blockchain import Blockchain
 from transaction import Transaction
 from wallet import Wallet
 
-
 def main():
     blockchain = Blockchain()
     wallet1 = Wallet()
